@@ -57,9 +57,11 @@ My research interests include Brain-Computer Interfaces and Machine Learning.  I
 
 <h2 id="internship"> Internship</h2>
 - Microsoft Research Asia, Artificial Intelligence & Machine Learning Group (2024.03 - 2024.08)<br>
+  Shanghai, China<br>
   EEG foundation model
 
 - HUAWEI (2020.07 - 2020.12)<br>
+  Hangzhou, China<br>
   Image superresolution
 
 <h2 id="honors"> Honors and Awards</h2>
