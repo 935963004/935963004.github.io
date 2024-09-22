@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a fourth-year Ph.D. student at the Department of Computer Science and Engineering of Shanghai Jiao Tong University, supervised by Prof. [Bao-Liang Lu](https://bcmi.sjtu.edu.cn/~lubaoliang/).
 
-My research interests include Brain-Computer Interfaces and Machine Learning. 
+My research interests include Brain-Computer Interfaces and Machine Learning.  I am currently working on EEG-based emotion recognition and general EEG foundation models.
 
 <h2 id="education"> Education</h2>
 
