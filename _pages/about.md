@@ -13,8 +13,8 @@ My research interests include Brain-Computer Interfaces and Machine Learning.
 
 <h2 id="education"> Education</h2>
 
-- Doctor of Engineering, Computer Science and Technology
-  Department of Computer Science and Engineering
+- Doctor of Engineering, Computer Science and Technology<br>
+  Department of Computer Science and Engineering<br>
   Shanghai Jiao Tong University (2021.09 - Present)
 
 - Visiting Ph.D. student, Computer Science and Technology
