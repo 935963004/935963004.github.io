@@ -17,12 +17,12 @@ My research interests include Brain-Computer Interfaces and Machine Learning.
   Department of Computer Science and Engineering<br>
   Shanghai Jiao Tong University (2021.09 - Present)
 
-- Visiting Ph.D. student, Computer Science and Technology
-  College of Computing and Data Science
+- Visiting Ph.D. student, Computer Science and Technology<br>
+  College of Computing and Data Science<br>
   Nanyang Technological University (2024.10 - 2025.10)
   
-- Bachelor of Engineering, Computer Science and Technology
-  Zhiyuan College, ACM Class
+- Bachelor of Engineering, Computer Science and Technology<br>
+  Zhiyuan College, ACM Class<br>
   Shanghai Jiao Tong University (2017.09 - 2021.06)
 
 <h2 id="publications"> Publications</h2>
@@ -56,10 +56,10 @@ My research interests include Brain-Computer Interfaces and Machine Learning.
   BIBM 2021 [Paper](https://ieeexplore.ieee.org/iel7/9669261/9669139/09669637.pdf)
 
 <h2 id="internship"> Internship</h2>
-- Microsoft Research Asia, Artificial Intelligence & Machine Learning Group (2024.03 - 2024.08)
+- Microsoft Research Asia, Artificial Intelligence & Machine Learning Group (2024.03 - 2024.08)<br>
   EEG foundation model
 
-- HUAWEI (2020.07 - 2020.12)
+- HUAWEI (2020.07 - 2020.12)<br>
   Image superresolution
 
 <h2 id="honors"> Honors and Awards</h2>
