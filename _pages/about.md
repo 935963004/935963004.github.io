@@ -25,13 +25,6 @@ My research interests include Brain-Computer Interfaces and Machine Learning.
   Zhiyuan College, ACM Class
   Shanghai Jiao Tong University (2017.09 - 2021.06)
 
-<h2 id="internship"> Internship</h2>
-- Microsoft Research Asia, Artificial Intelligence & Machine Learning Group (2024.03 - 2024.08)
-  EEG foundation model
-
-- HUAWEI (2020.07 - 2020.12)
-  Image superresolution
-
 <h2 id="publications"> Publications</h2>
 (\* denotes equal contribution)
 
@@ -61,6 +54,13 @@ My research interests include Brain-Computer Interfaces and Machine Learning.
 - *Multimodal Adaptive Emotion Transformer with Flexible Modality Inputs on a Novel Dataset with Continuous Labels*     
   **Wei-Bang Jiang**, Xuan-Hao Liu, Wei-Long Zheng, and Bao-Liang Lu   
   BIBM 2021 [Paper](https://ieeexplore.ieee.org/iel7/9669261/9669139/09669637.pdf)
+
+<h2 id="internship"> Internship</h2>
+- Microsoft Research Asia, Artificial Intelligence & Machine Learning Group (2024.03 - 2024.08)
+  EEG foundation model
+
+- HUAWEI (2020.07 - 2020.12)
+  Image superresolution
 
 <h2 id="honors"> Honors and Awards</h2>
 - China Scholarship Council (CSC) scholarships, 2024
