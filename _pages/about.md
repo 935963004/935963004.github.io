@@ -13,16 +13,20 @@ My research interests include Brain-Computer Interfaces and Machine Learning.
 
 <h2 id="education"> Education</h2>
 
-- Doctor of Engineering, Computer Science and Technology   
+- Doctor of Engineering, Computer Science and Technology
+  Department of Computer Science and Engineering
   Shanghai Jiao Tong University (2021 - Present)
   
-- Bachelor of Engineering, Computer Science and Technology   
+- Bachelor of Engineering, Computer Science and Technology
+  Zhiyuan College, ACM Class
   Shanghai Jiao Tong University (2017 - 2021)
 
 <h2 id="Internship"> Education</h2>
 - Microsoft Research Asia, Artificial Intelligence & Machine Learning Group (2024.03 - 2024.08)
+  EEG foundation model
 
 - HUAWEI (2020.07 - 2020.12)
+  Image superresolution
 
 <h2 id="publications"> Publications</h2>
 (\* denotes equal contribution)
@@ -56,3 +60,4 @@ My research interests include Brain-Computer Interfaces and Machine Learning.
 
 <h2 id="honors"> Honors and Awards</h2>
 - China Scholarship Council (CSC) scholarships, 2024
+- 
