@@ -25,7 +25,7 @@ My research interests include Brain-Computer Interfaces and Machine Learning.
   Zhiyuan College, ACM Class
   Shanghai Jiao Tong University (2017.09 - 2021.06)
 
-<h2 id="Internship"> Education</h2>
+<h2 id="internship"> Internship</h2>
 - Microsoft Research Asia, Artificial Intelligence & Machine Learning Group (2024.03 - 2024.08)
   EEG foundation model
 
