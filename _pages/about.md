@@ -21,7 +21,20 @@ My research interests include Brain-Computer Interfaces and Machine Learning.
 
 <h2 id="publications"> Publications</h2>
 
-**2024:**  
-- *Large brain model for learning generic representations with tremendous EEG data in BCI*     
+**2024:**
+- *REmoNet: Reducing Emotional Label Noise via Multi-regularized Self-supervision*     
+  **Wei-Bang Jiang**, Yu-Ting Lan, and Bao-Liang Lu   
+  ACM MM 2024 [Paper](https://openreview.net/pdf?id=xm7OAfcf3U)
+
+- *Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI*     
   **Wei-Bang Jiang**, Li-Ming Zhao, and Bao-Liang Lu   
-  ICLR 2024 (spotlight)
+  ICLR 2024 (Spotlight) [Paper](https://openreview.net/pdf?id=QzTpTRVtrP)
+
+- *Functional Emotion Transformer for EEG-assisted Cross-modal Emotion Recognition*     
+  **Wei-Bang Jiang**, Li-Ming Zhao, and Bao-Liang Lu   
+  ICASSP 2024 (Oral) [Paper](https://ieeexplore.ieee.org/iel7/10445798/10445803/10446937.pdf)
+
+**2023:**
+- *Multimodal Adaptive Emotion Transformer with Flexible Modality Inputs on a Novel Dataset with Continuous Labels*     
+  **Wei-Bang Jiang**, Xuan-Hao Liu, Wei-Long Zheng, and Bao-Liang Lu   
+  ACM MM 2023 [Paper](https://openreview.net/attachment?id=4mBvniqtBR&name=pdf)
