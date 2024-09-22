@@ -60,4 +60,5 @@ My research interests include Brain-Computer Interfaces and Machine Learning.
 
 <h2 id="honors"> Honors and Awards</h2>
 - China Scholarship Council (CSC) scholarships, 2024
-- 
+- Honorary scholarship of Zhiyuan College, 2017-2020
+- Undergraduate excellent scholarship Level C, 2018-2020
