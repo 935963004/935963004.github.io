@@ -25,10 +25,11 @@ My research interests include Brain-Computer Interfaces and Machine Learning.
 - HUAWEI (2020.07 - 2020.12)
 
 <h2 id="publications"> Publications</h2>
+(\* denotes equal contribution)
 
 **2024:**
 - *REmoNet: Reducing Emotional Label Noise via Multi-regularized Self-supervision*     
-  **Wei-Bang Jiang**, Yu-Ting Lan, and Bao-Liang Lu   
+  **Wei-Bang Jiang**\*, Yu-Ting Lan\*, and Bao-Liang Lu   
   ACM MM 2024 [Paper](https://openreview.net/pdf?id=xm7OAfcf3U)
 
 - *Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI*     
@@ -36,7 +37,7 @@ My research interests include Brain-Computer Interfaces and Machine Learning.
   ICLR 2024 (Spotlight) [Paper](https://openreview.net/pdf?id=QzTpTRVtrP)
 
 - *Functional Emotion Transformer for EEG-assisted Cross-modal Emotion Recognition*     
-  **Wei-Bang Jiang**, Li-Ming Zhao, and Bao-Liang Lu   
+  **Wei-Bang Jiang**\*, Ziyi Li\*, Wei-Long Zheng, and Bao-Liang Lu   
   ICASSP 2024 (Oral) [Paper](https://ieeexplore.ieee.org/iel7/10445798/10445803/10446937.pdf)
 
 **2023:**
@@ -52,3 +53,6 @@ My research interests include Brain-Computer Interfaces and Machine Learning.
 - *Multimodal Adaptive Emotion Transformer with Flexible Modality Inputs on a Novel Dataset with Continuous Labels*     
   **Wei-Bang Jiang**, Xuan-Hao Liu, Wei-Long Zheng, and Bao-Liang Lu   
   BIBM 2021 [Paper](https://ieeexplore.ieee.org/iel7/9669261/9669139/09669637.pdf)
+
+<h2 id="honors"> Honors and Awards</h2>
+- China Scholarship Council (CSC) scholarships, 2024
