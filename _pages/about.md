@@ -18,3 +18,10 @@ My research interests include Brain-Computer Interfaces and Machine Learning.
   
 - Bachelor of Engineering, Computer Science and Technology   
   Shanghai Jiao Tong University (2017 - 2021)
+
+<h2 id="publications"> Publications</h2>
+
+**2024:**  
+- *Large brain model for learning generic representations with tremendous EEG data in BCI*     
+  **Wei-Bang Jiang**, Li-Ming Zhao, and Bao-Liang Lu   
+  ICLR 2024 (spotlight)
