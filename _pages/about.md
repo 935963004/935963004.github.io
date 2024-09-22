@@ -13,15 +13,15 @@ My research interests include Brain-Computer Interfaces and Machine Learning.  I
 
 <h2 id="education"> Education</h2>
 
-- Doctor of Engineering, Computer Science and Technology<br>
+- **Doctor of Engineering**, Computer Science and Technology<br>
   Department of Computer Science and Engineering<br>
   Shanghai Jiao Tong University (2021.09 - Present)
 
-- Visiting Ph.D. student, Computer Science and Technology<br>
+- **Visiting Ph.D. Student**, Computer Science and Technology<br>
   College of Computing and Data Science<br>
   Nanyang Technological University (2024.10 - 2025.10)
   
-- Bachelor of Engineering, Computer Science and Technology<br>
+- **Bachelor of Engineering**, Computer Science and Technology<br>
   Zhiyuan College, ACM Class<br>
   Shanghai Jiao Tong University (2017.09 - 2021.06)
 
@@ -46,7 +46,7 @@ My research interests include Brain-Computer Interfaces and Machine Learning.  I
   **Wei-Bang Jiang**, Xuan-Hao Liu, Wei-Long Zheng, and Bao-Liang Lu   
   ACM MM 2023 [Paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3613797) [Code](https://github.com/935963004/MAET)
 
-- *Elastic graph transformer networks for EEG-based emotion recognition*     
+- *Elastic Graph Transformer Networks for EEG-based Emotion Recognition*     
   **Wei-Bang Jiang**, Xu Yan, Wei-Long Zheng, and Bao-Liang Lu   
   ICASSP 2023 [Paper](https://ieeexplore.ieee.org/iel7/10094559/10094560/10096511.pdf)
 
@@ -57,11 +57,11 @@ My research interests include Brain-Computer Interfaces and Machine Learning.  I
 
 <h2 id="internship"> Internship</h2>
 
-- Microsoft Research Asia, Artificial Intelligence & Machine Learning Group (2024.03 - 2024.08)<br>
+- **Microsoft Research Asia (MSRA)**, Artificial Intelligence & Machine Learning Group (2024.03 - 2024.08)<br>
   Shanghai, China<br>
   EEG foundation model
 
-- HUAWEI (2020.07 - 2020.12)<br>
+- **HUAWEI** (2020.07 - 2020.12)<br>
   Hangzhou, China<br>
   Image superresolution
 
