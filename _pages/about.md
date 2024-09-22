@@ -38,7 +38,7 @@ My research interests include Brain-Computer Interfaces and Machine Learning.
 
 - *Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI*     
   **Wei-Bang Jiang**, Li-Ming Zhao, and Bao-Liang Lu   
-  ICLR 2024 (Spotlight) [Paper](https://openreview.net/pdf?id=QzTpTRVtrP)
+  ICLR 2024 (Spotlight) [Paper](https://openreview.net/pdf?id=QzTpTRVtrP) [Code](https://github.com/935963004/LaBraM)
 
 - *Functional Emotion Transformer for EEG-assisted Cross-modal Emotion Recognition*     
   **Wei-Bang Jiang**\*, Ziyi Li\*, Wei-Long Zheng, and Bao-Liang Lu   
@@ -47,7 +47,7 @@ My research interests include Brain-Computer Interfaces and Machine Learning.
 **2023:**
 - *Multimodal Adaptive Emotion Transformer with Flexible Modality Inputs on a Novel Dataset with Continuous Labels*     
   **Wei-Bang Jiang**, Xuan-Hao Liu, Wei-Long Zheng, and Bao-Liang Lu   
-  ACM MM 2023 [Paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3613797)
+  ACM MM 2023 [Paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3613797) [Code](https://github.com/935963004/MAET)
 
 - *Elastic graph transformer networks for EEG-based emotion recognition*     
   **Wei-Bang Jiang**, Xu Yan, Wei-Long Zheng, and Bao-Liang Lu   
