@@ -15,11 +15,15 @@ My research interests include Brain-Computer Interfaces and Machine Learning.
 
 - Doctor of Engineering, Computer Science and Technology
   Department of Computer Science and Engineering
-  Shanghai Jiao Tong University (2021 - Present)
+  Shanghai Jiao Tong University (2021.09 - Present)
+
+- Visiting Ph.D. student, Computer Science and Technology
+  College of Computing and Data Science
+  Nanyang Technological University (2024.10 - 2025.10)
   
 - Bachelor of Engineering, Computer Science and Technology
   Zhiyuan College, ACM Class
-  Shanghai Jiao Tong University (2017 - 2021)
+  Shanghai Jiao Tong University (2017.09 - 2021.06)
 
 <h2 id="Internship"> Education</h2>
 - Microsoft Research Asia, Artificial Intelligence & Machine Learning Group (2024.03 - 2024.08)
