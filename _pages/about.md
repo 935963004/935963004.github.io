@@ -56,6 +56,7 @@ My research interests include Brain-Computer Interfaces and Machine Learning.  I
   BIBM 2021 [Paper](https://ieeexplore.ieee.org/iel7/9669261/9669139/09669637.pdf)
 
 <h2 id="internship"> Internship</h2>
+
 - Microsoft Research Asia, Artificial Intelligence & Machine Learning Group (2024.03 - 2024.08)<br>
   Shanghai, China<br>
   EEG foundation model
@@ -65,6 +66,7 @@ My research interests include Brain-Computer Interfaces and Machine Learning.  I
   Image superresolution
 
 <h2 id="honors"> Honors and Awards</h2>
+
 - China Scholarship Council (CSC) scholarships, 2024
 - Honorary scholarship of Zhiyuan College, 2017-2020
 - Undergraduate excellent scholarship Level C, 2018-2020
