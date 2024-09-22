@@ -51,8 +51,8 @@ My research interests include Brain-Computer Interfaces and Machine Learning.  I
   ICASSP 2023 [Paper](https://ieeexplore.ieee.org/iel7/10094559/10094560/10096511.pdf)
 
 **2021:**
-- *Multimodal Adaptive Emotion Transformer with Flexible Modality Inputs on a Novel Dataset with Continuous Labels*     
-  **Wei-Bang Jiang**, Xuan-Hao Liu, Wei-Long Zheng, and Bao-Liang Lu   
+- *Discriminating Surprise and Anger from EEG and Eye Movements with a Graph Network*     
+  **Wei-Bang Jiang**, Li-Ming Zhao, Ping Guo, and Bao-Liang Lu   
   BIBM 2021 [Paper](https://ieeexplore.ieee.org/iel7/9669261/9669139/09669637.pdf)
 
 <h2 id="internship"> Internship</h2>
@@ -68,5 +68,5 @@ My research interests include Brain-Computer Interfaces and Machine Learning.  I
 <h2 id="honors"> Honors and Awards</h2>
 
 - China Scholarship Council (CSC) scholarships, 2024
-- Honorary scholarship of Zhiyuan College, 2017-2020
-- Undergraduate excellent scholarship Level C, 2018-2020
+- Honorary scholarship of Zhiyuan College, 2017 - 2020
+- Undergraduate excellent scholarship Level C, 2018 - 2020
