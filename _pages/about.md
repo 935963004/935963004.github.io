@@ -37,4 +37,13 @@ My research interests include Brain-Computer Interfaces and Machine Learning.
 **2023:**
 - *Multimodal Adaptive Emotion Transformer with Flexible Modality Inputs on a Novel Dataset with Continuous Labels*     
   **Wei-Bang Jiang**, Xuan-Hao Liu, Wei-Long Zheng, and Bao-Liang Lu   
-  ACM MM 2023 [Paper](https://openreview.net/attachment?id=4mBvniqtBR&name=pdf)
+  ACM MM 2023 [Paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3613797)
+
+- *Elastic graph transformer networks for EEG-based emotion recognition*     
+  **Wei-Bang Jiang**, Xu Yan, Wei-Long Zheng, and Bao-Liang Lu   
+  ICASSP 2023 [Paper](https://ieeexplore.ieee.org/iel7/10094559/10094560/10096511.pdf)
+
+**2021:**
+- *Multimodal Adaptive Emotion Transformer with Flexible Modality Inputs on a Novel Dataset with Continuous Labels*     
+  **Wei-Bang Jiang**, Xuan-Hao Liu, Wei-Long Zheng, and Bao-Liang Lu   
+  BIBM 2021 [Paper](https://ieeexplore.ieee.org/iel7/9669261/9669139/09669637.pdf)
