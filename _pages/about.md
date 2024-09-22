@@ -19,6 +19,11 @@ My research interests include Brain-Computer Interfaces and Machine Learning.
 - Bachelor of Engineering, Computer Science and Technology   
   Shanghai Jiao Tong University (2017 - 2021)
 
+<h2 id="Internship"> Education</h2>
+- Microsoft Research Asia, Artificial Intelligence & Machine Learning Group (2024.03 - 2024.08)
+
+- HUAWEI (2020.07 - 2020.12)
+
 <h2 id="publications"> Publications</h2>
 
 **2024:**
