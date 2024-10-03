@@ -31,29 +31,29 @@ My research interests include Brain-Computer Interfaces and Machine Learning.  I
 **2024:**
 - *REmoNet: Reducing Emotional Label Noise via Multi-regularized Self-supervision*     
   **Wei-Bang Jiang**\*, Yu-Ting Lan\*, and Bao-Liang Lu   
-  ACM MM 2024 [Paper](https://openreview.net/pdf?id=xm7OAfcf3U)
+  ACM International Conference on Multimedia (ACM MM) [Paper](https://openreview.net/pdf?id=xm7OAfcf3U)
 
 - *Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI*     
   **Wei-Bang Jiang**, Li-Ming Zhao, and Bao-Liang Lu   
-  ICLR 2024 (Spotlight) [Paper](https://openreview.net/pdf?id=QzTpTRVtrP) [Code](https://github.com/935963004/LaBraM)
+  International Conference on Learning Representations (ICLR) Spotlight [Paper](https://openreview.net/pdf?id=QzTpTRVtrP) [Code](https://github.com/935963004/LaBraM)
 
 - *Functional Emotion Transformer for EEG-assisted Cross-modal Emotion Recognition*     
   **Wei-Bang Jiang**\*, Ziyi Li\*, Wei-Long Zheng, and Bao-Liang Lu   
-  ICASSP 2024 (Oral) [Paper](https://ieeexplore.ieee.org/iel7/10445798/10445803/10446937.pdf)
+  IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) Oral [Paper](https://ieeexplore.ieee.org/iel7/10445798/10445803/10446937.pdf)
 
 **2023:**
 - *Multimodal Adaptive Emotion Transformer with Flexible Modality Inputs on a Novel Dataset with Continuous Labels*     
   **Wei-Bang Jiang**, Xuan-Hao Liu, Wei-Long Zheng, and Bao-Liang Lu   
-  ACM MM 2023 [Paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3613797) [Code](https://github.com/935963004/MAET)
+  ACM International Conference on Multimedia (ACM MM) [Paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3613797) [Code](https://github.com/935963004/MAET)
 
 - *Elastic Graph Transformer Networks for EEG-based Emotion Recognition*     
   **Wei-Bang Jiang**, Xu Yan, Wei-Long Zheng, and Bao-Liang Lu   
-  ICASSP 2023 [Paper](https://ieeexplore.ieee.org/iel7/10094559/10094560/10096511.pdf)
+  IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) [Paper](https://ieeexplore.ieee.org/iel7/10094559/10094560/10096511.pdf)
 
 **2021:**
 - *Discriminating Surprise and Anger from EEG and Eye Movements with a Graph Network*     
   **Wei-Bang Jiang**, Li-Ming Zhao, Ping Guo, and Bao-Liang Lu   
-  BIBM 2021 [Paper](https://ieeexplore.ieee.org/iel7/9669261/9669139/09669637.pdf)
+  IEEE International Conference on Bioinformatics and Biomedicine (BIBM) [Paper](https://ieeexplore.ieee.org/iel7/9669261/9669139/09669637.pdf)
 
 <h2 id="internship"> Internship</h2>
 
