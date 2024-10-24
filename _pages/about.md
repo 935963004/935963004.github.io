@@ -29,6 +29,10 @@ My research interests include Brain-Computer Interfaces and Machine Learning.  I
 (\* denotes equal contribution)
 
 **2024:**
+- *SEED-VII: A Multimodal Dataset of Six Basic Emotions with Continuous Labels for Emotion Recognition*     
+  **Wei-Bang Jiang**\*, Xuan-Hao Liu\*, Wei-Long Zheng, and Bao-Liang Lu   
+  IEEE Transactions on Affective Computing (TAFFC) [Paper](https://xploreqa.ieee.org/document/10731546) [Code](https://github.com/935963004/MAET) [Dataset](https://bcmi.sjtu.edu.cn/home/seed/seed-vii.html)
+
 - *REmoNet: Reducing Emotional Label Noise via Multi-regularized Self-supervision*     
   **Wei-Bang Jiang**\*, Yu-Ting Lan\*, and Bao-Liang Lu   
   ACM International Conference on Multimedia (ACM MM) [Paper](https://openreview.net/pdf?id=xm7OAfcf3U)
@@ -44,7 +48,7 @@ My research interests include Brain-Computer Interfaces and Machine Learning.  I
 **2023:**
 - *Multimodal Adaptive Emotion Transformer with Flexible Modality Inputs on a Novel Dataset with Continuous Labels*     
   **Wei-Bang Jiang**, Xuan-Hao Liu, Wei-Long Zheng, and Bao-Liang Lu   
-  ACM International Conference on Multimedia (ACM MM) [Paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3613797) [Code](https://github.com/935963004/MAET)
+  ACM International Conference on Multimedia (ACM MM) [Paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3613797) [Code](https://github.com/935963004/MAET) [Dataset](https://bcmi.sjtu.edu.cn/home/seed/seed-vii.html)
 
 - *Elastic Graph Transformer Networks for EEG-based Emotion Recognition*     
   **Wei-Bang Jiang**, Xu Yan, Wei-Long Zheng, and Bao-Liang Lu   
