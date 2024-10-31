@@ -35,7 +35,7 @@ My research interests include Brain-Computer Interfaces and Machine Learning.  I
 
 - *REmoNet: Reducing Emotional Label Noise via Multi-regularized Self-supervision*     
   **Wei-Bang Jiang**\*, Yu-Ting Lan\*, and Bao-Liang Lu   
-  ACM International Conference on Multimedia (ACM MM) [Paper](https://openreview.net/pdf?id=xm7OAfcf3U)
+  ACM International Conference on Multimedia (ACM MM) [Paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3681406)
 
 - *Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI*     
   **Wei-Bang Jiang**, Li-Ming Zhao, and Bao-Liang Lu   
