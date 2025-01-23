@@ -30,7 +30,7 @@ My research interests include Brain-Computer Interfaces and Machine Learning.  I
 
 **2025:**
 - *NeuroLM: A Universal Multi-task Foundation Model for Bridging the Gap between Language and EEG Signals*     
-  **Wei-Bang Jiang**, Yansen Wang, Bao-Liang Lu, and Dongsheng Li
+  **Wei-Bang Jiang**, Yansen Wang, Bao-Liang Lu, and Dongsheng Li   
   International Conference on Learning Representations (ICLR) [Paper](https://openreview.net/pdf?id=Io9yFt7XH7) [Code](https://github.com/935963004/NeuroLM)
 
 **2024:**
