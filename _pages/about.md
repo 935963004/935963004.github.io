@@ -11,6 +11,8 @@ I am currently a fourth-year Ph.D. student at the Department of Computer Science
 
 My research interests include Brain-Computer Interfaces and Machine Learning.  I am currently working on EEG-based emotion recognition and general EEG foundation models.
 
+**I am job hunting this year. If you are interested in me, feel free to contact me (935963004@sjtu.edu.cn).**
+
 <h2 id="education"> Education</h2>
 
 - **Doctor of Engineering**, Computer Science and Technology<br>
