@@ -31,15 +31,15 @@ My research interests include Brain-Computer Interfaces and Machine Learning.  I
 (\* denotes equal contribution)
 
 **2025:**
+- *SEED-VII: A Multimodal Dataset of Six Basic Emotions with Continuous Labels for Emotion Recognition*     
+  **Wei-Bang Jiang**\*, Xuan-Hao Liu\*, Wei-Long Zheng, and Bao-Liang Lu   
+  IEEE Transactions on Affective Computing (TAFFC) [Paper](https://xploreqa.ieee.org/document/10731546) [Code](https://github.com/935963004/MAET) [Dataset](https://bcmi.sjtu.edu.cn/home/seed/seed-vii.html)
+  
 - *NeuroLM: A Universal Multi-task Foundation Model for Bridging the Gap between Language and EEG Signals*     
   **Wei-Bang Jiang**, Yansen Wang, Bao-Liang Lu, and Dongsheng Li   
   International Conference on Learning Representations (ICLR) [Paper](https://openreview.net/pdf?id=Io9yFt7XH7) [Code](https://github.com/935963004/NeuroLM)
 
 **2024:**
-- *SEED-VII: A Multimodal Dataset of Six Basic Emotions with Continuous Labels for Emotion Recognition*     
-  **Wei-Bang Jiang**\*, Xuan-Hao Liu\*, Wei-Long Zheng, and Bao-Liang Lu   
-  IEEE Transactions on Affective Computing (TAFFC) [Paper](https://xploreqa.ieee.org/document/10731546) [Code](https://github.com/935963004/MAET) [Dataset](https://bcmi.sjtu.edu.cn/home/seed/seed-vii.html)
-
 - *REmoNet: Reducing Emotional Label Noise via Multi-regularized Self-supervision*     
   **Wei-Bang Jiang**\*, Yu-Ting Lan\*, and Bao-Liang Lu   
   ACM International Conference on Multimedia (ACM MM) [Paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3681406)
